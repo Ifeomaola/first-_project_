@@ -1,0 +1,36 @@
+.left_nav {
+    display: flex;
+    margin-left: 40px;
+  }
+  .left_nav > img {
+    width: 15%;
+    height: 50px;
+  }
+  .text {
+    width: 100%;
+    margin-left: 5px;
+  }
+  .container_python{
+      background-image:"image background.jpg" ;
+  }
+  .nav_containers {
+    display: flex;
+  }
+  .right_nav {
+    margin-top: 10px;
+    margin-left: 400px;
+  }
+  .right_nav > a {
+    text-decoration: none;
+    margin-left: 30px;
+  }
+  .footer {
+    background-color: black;
+    display: flex;
+  }
+  .foot_1 {
+    display: flex;
+  }
+  .foot_1 > img {
+    width: 15%;
+    height: 40px;
